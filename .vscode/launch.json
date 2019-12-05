@@ -1,0 +1,151 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p52",
+            "request": "launch",
+            "mainClass": "test_p55.test_p52",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p52",
+            "request": "launch",
+            "mainClass": "test_p52.test_p52",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p44",
+            "request": "launch",
+            "mainClass": "test_p50.test_p44",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p44",
+            "request": "launch",
+            "mainClass": "test_p48.test_p44",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p44",
+            "request": "launch",
+            "mainClass": "test_p47.test_p44",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p44",
+            "request": "launch",
+            "mainClass": "test_p45.test_p44",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p44",
+            "request": "launch",
+            "mainClass": "test_p44.test_p44",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p40",
+            "request": "launch",
+            "mainClass": "test_p40.test_p40",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p36",
+            "request": "launch",
+            "mainClass": "test_p36.test_p36",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p35",
+            "request": "launch",
+            "mainClass": "test_p35.test_p35",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p34",
+            "request": "launch",
+            "mainClass": "test_p34.test_p34",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p32",
+            "request": "launch",
+            "mainClass": "test_p32.test_p32",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p30",
+            "request": "launch",
+            "mainClass": "test_p30.test_p30",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p26",
+            "request": "launch",
+            "mainClass": "test_p26.test_p26",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p24",
+            "request": "launch",
+            "mainClass": "test_p24.test_p24",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p21",
+            "request": "launch",
+            "mainClass": "test_p21.test_p21",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p19",
+            "request": "launch",
+            "mainClass": "test_p19.test_p19",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p14",
+            "request": "launch",
+            "mainClass": "test_p14.test_p14",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p10",
+            "request": "launch",
+            "mainClass": "test_p10.test_p10",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p8",
+            "request": "launch",
+            "mainClass": "test_p8.test_p8",
+            "projectName": "JAVA_bd77af6a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_p6",
+            "request": "launch",
+            "mainClass": "test_p6.test_p6",
+            "projectName": "JAVA_bd77af6a"
+        }
+    ]
+}
